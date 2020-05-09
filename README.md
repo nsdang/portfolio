@@ -1,4 +1,12 @@
-# portfolio
-My Portfolio Web (nsdang.com)
+# Portfolio
+> Creator: Dang Nguyen
+>  |  Seattle, WA
+>  |  April,2020
 
-Custom domain currently has some issue. Please come back in another time.
+![Home Page 1](https://github.com/nsdang/VietNam-Blog/blob/master/image/Screenshot%202019-10-13%20at%2016.53.55.png)
+
+Click [me](https://nsdang.com/) to visit _Portfolio_
+
+
+### Overview
+My Porfolio
