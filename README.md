@@ -3,7 +3,7 @@
 >  |  Seattle, WA
 >  |  April,2020
 
-![Home Page](./img/portfolio-readme.png)
+![Home Page](./img/porfolio-readme.png)
 
 
 Click [me](https://nsdang.com/) to visit _Portfolio_
